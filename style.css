@@ -1,0 +1,34 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+#nav-content{
+    background-color: #ff0000;
+}
+#ul-content{
+    list-style: none;
+    display: flex;
+    width: 30%;
+}
+#li-content{
+    padding: 50px;
+}
+
+#li-content a{
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+   
+}
+.img-logo{
+    width: 14%;
+    float: left;
+}
+
+.img-compra{
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+}
